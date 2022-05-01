@@ -1,4 +1,4 @@
-# Aula| Bootstrap
+# Aula | Bootstrap
 Atividade desenvolvida usando bootstrap.
 
 - HTML
